@@ -1,0 +1,3 @@
+[submodule "Achilles/vendor/spdlog"]
+	path = Achilles/vendor/spdlog
+	url = https://github.com/gabime/spdlog
